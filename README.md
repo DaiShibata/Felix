@@ -1,3 +1,4 @@
+
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -103,7 +104,7 @@
 
     
 
-    <p class="credits-top">iOS under 10.3.2 jailbreak tool by David Shibata <a class="twitter-link" href="https://twitter.com/dai90408270">@dai90408270</a></p>
+    
    
     <div style="padding-top: 100px;"> 
       <a class="download-btn" href="" rel="nofollow">Download Coming Soon</a>
@@ -115,13 +116,16 @@
     
     <ol class="dotted-list">
 	<h3>support devices </h3>
+	iOS under 10.3.2 jailbreak tool by David Shibata 
+	<li><a class="twitter-link" href="https://twitter.com/dai90408270">Twitter->@dai90408270</a></li>
       <li>iPod Touch 6 (10.3.2)</li>
       <li>iPhone SE (10.3.2)</li>
       <li>iPhone 6/Plus (10.3.2)</li>
       <li>iPhone 6s/Plus (10.3.2)</li>
-      <li>iPad Mini 4 (10.3.2) </li>
-      <li>iPad Air 2 (10.3.2)</li>
-      <li>iPhone 6s (10.3.2) </li>
+       <li>iPhone 6s (10.3.2) </li>
+	   <li>other devices aren't ready yet</li>
+	   <li>*instration need use cydia impactor* </li>
+	   <li>any questipns to twitter. Might take time to reply</li>
 	  <h2>*This is beta version</h2>
     </ol>
 	<li></li>
