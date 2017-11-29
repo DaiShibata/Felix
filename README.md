@@ -141,7 +141,7 @@
     var hrs = new Date().getHours();
     
     if(hrs >= 16) {
-      document.body.style.background = "linear-gradient(0, #0E0F0E, #1E0C04)";
+      document.body.style.background = "linear-gradient(0, #AF0909, #0E0F0E)";
       document.getElementsByClassName("download-btn")[0].style.background = "#0DD652";
     }
 });
