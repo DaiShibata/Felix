@@ -106,7 +106,7 @@
     <p class="credits-top">iOS under 10.3.2 jailbreak tool by David Shibata <a class="twitter-link" href="https://twitter.com/dai90408270">@dai90408270</a></p>
    
     <div style="padding-top: 100px;"> 
-      <a class="download-btn" href="" rel="nofollow">Download Beta</a>
+      <a class="download-btn" href="" rel="nofollow">Download Coming Soon</a>
     </div>
 
 
@@ -127,7 +127,7 @@
 	<li></li>
   
    
-    </ol>
+   
 
     
     <br>
