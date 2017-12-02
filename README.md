@@ -128,13 +128,6 @@
 	   <li>any questipns to twitter. Might take time to reply</li>
 	  <h2>*This is beta version</h2>
     </ol>
-	<li></li>
-  
-   
-   
-
-    
-    <br>
 
 
 </body>
