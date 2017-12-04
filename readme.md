@@ -98,7 +98,6 @@
     }
   </style>
 
-'
 
   <body>
 
@@ -107,7 +106,7 @@
     
    
     <div style="padding-top: 100px;"> 
-      <a class="download-btn" href="" rel="nofollow">Download Coming Soon</a>
+      <a class="download-btn" href="" rel="nofollow">Download beta </a>
     </div>
 
 
@@ -128,7 +127,7 @@
 	   <li>any questipns to twitter. Might take time to reply</li>
 	  <h2>*This is beta version</h2>
     </ol>
-	<li></li>
+	
   
    
    
